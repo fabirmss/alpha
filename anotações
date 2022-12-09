@@ -1,0 +1,1 @@
+No app tem que ser criada a pasta templates pois o framework puxa os arquivos de template dessa pasta automaticamente.
